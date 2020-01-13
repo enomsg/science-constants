@@ -1,0 +1,9 @@
+The package is open to any scientific constant (and not only in SI units),
+so feel free to add new values (or correct existing, if necessary).
+
+TODO/things to consider:
+
+Science.Constants.EV -- constants in electronvolt units
+Science.Constants.Planck -- constants in Planck units
+Science.Constants.Chemistry -- elements/isotopes' constants
+Science.Constants.*.{UnitTyped,Dimensional} wrappers?
